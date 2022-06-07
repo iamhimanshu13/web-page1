@@ -1,0 +1,122 @@
+.uppersec{
+    background: rgba(0, 0, 0, 0.8000);
+    width: 100%;
+    height: 20vh;
+    text-align: center;
+    margin-top: none;
+    color: aliceblue;
+
+}
+body{
+    margin: auto;
+}
+.fht{
+    padding-top: 70px;
+    margin: 0%;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.874);
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+}
+.navitem{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 20px 20px;
+    cursor: pointer ;
+    
+}
+.lefttop{
+    padding-left: 34vh;
+    padding-top: 2.5vh;
+}
+.support{
+    font-size: 25px;
+}
+.leftcenterlink{
+    text-decoration: none;
+    color: rgb(106, 156, 30);
+    
+}
+#center{
+    padding-top: 25px;
+}
+.ajpg{
+    width: 80px;
+    padding-right: 10px;
+
+}
+.imgfb{
+    display: flex;
+    padding-top: 20px;
+}
+.leftright{
+    display: flex;
+}
+.right{
+    width: 54%;
+    height: 50vh;
+}
+.bigtxt{
+    font-size: 18px;
+    padding-top: 23px;
+    padding-left: 30px;
+}
+.righttxt{
+    padding-top: 23px;
+    padding-left: 30px;
+
+}
+.rightmid{
+    height: 45vh;
+    width: 30%;
+    position: absolute;
+    top: 535px;
+    left: 70vh;
+}
+.rightmid2{
+    position: absolute;
+    top: 551px;
+    left: 133vh;
+}
+.rightbtm{
+    width: 54%;
+    position: absolute;
+    left: 70vh;
+    top: 770px;
+}
+
+.righttxt2{
+
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.874) ;
+    height: 20vh;
+    width: 100%;
+    margin-top: 16vh;
+    text-align: center;
+}
+.footer1{
+    text-decoration: none;
+    color: azure;
+    padding-left:50px;
+    position: relative;
+    top: 40px;
+    color: rgb(106, 156, 30);
+
+
+}
+.end{
+    position: absolute;
+    top: 167vh;
+    color: white;
+    left: 83vh;
+}
+.click{
+    color: rgb(106, 156, 30);
+    text-decoration: none;
+}
+.imghtml{
+    padding-top: 40px;
+}

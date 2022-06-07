@@ -1,0 +1,128 @@
+.profile-image {
+    float: right;
+    width: 24px;
+    border-radius: 50%;
+}
+.button{
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 5px 20px 5px 20px;
+}
+.sec1{
+    grid-column-start: 2;
+    grid-column-end: 19;
+
+}
+.sec2{
+    grid-column-start: 5;
+    grid-column-end: 17;
+    text-align: center;
+
+
+}
+.sec3{
+    margin-top: 120px;
+}
+.images{
+    padding-top: 20px;
+}
+.image{
+   width: 80px;
+   height: 80px;
+   border-radius: 5px;
+
+}
+   .mainimg{
+       height: 400px;
+       width: 400px;
+       border-radius: 15px;
+       margin-top: 80px;
+       /* margin-left: 150px; */
+       /* margin-right: 150px; */
+
+
+   }
+   .head{
+       color: orange;
+       font-weight: bolder;
+       font-size: small;
+   }
+   .h1{
+       font-size: xx-large;
+       font-weight: bolder;
+   }
+   .h2{
+    font-size: small;
+    font-weight: bold ;
+
+   }
+   .h3{
+    /* font-size: ; */
+    margin: 0px;
+    width: 70px;
+  
+
+   }
+   .icon-cart {
+       padding-right: 10px;
+   }
+   .h4{
+
+    font-size: small;
+    font-weight: bolder;
+    color: orange;
+    background-color: rgba(255, 160, 122, 0.183);
+    width: 30px;
+    height: 14;
+    text-align: center;
+    margin-top: 5px;
+
+
+   }
+   .h6{
+    font-size: x-small;
+    font-weight: bolder;
+    color:rgba(128, 128, 128, 0.469);
+    margin: 0ch;
+    text-decoration: line-through;
+
+   }
+ 
+   .frame2{
+       display: flex;
+       flex-direction: row;
+   }
+   .frame2 >section {
+       width: 50%;
+   }
+   .navigation{
+       display: flex;
+       flex-direction: row;
+       padding: 10px;
+       font-size: large;
+   }
+   .header{
+       margin: 0px;
+       border: none;
+       padding-right: 30px;
+       padding-left: 70px;
+   }
+   .nav{
+       font-size: 15;
+       display: flex;
+       flex: 1;
+       justify-content: space-between;
+       align-items: center;
+       
+   }
+   .nav1{
+       padding: 10px;
+       color: rgba(0, 0, 0, 0.428);
+       text-decoration: none;
+   }
+#rate{
+    display: flex;
+    height: 20px;
+}
